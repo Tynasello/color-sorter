@@ -108,7 +108,7 @@ int getColor(){
   
   int color = 0;
   
-  // checks what colour is being detected and runs function
+  // checks what colour is being detected
   if( fR>124 & fR<134 &fG>136){
       color=1;//red
   }
